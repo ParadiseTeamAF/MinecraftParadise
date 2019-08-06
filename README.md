@@ -20,7 +20,7 @@ We woking onto it and we have a release next week to selected users and friends.
 
 ```
 - Not all Questions did have a Reward.
-- Not all Questinons trees (Outside the main Questline) arent completed or in development.
+- Not all Questinons trees (Outside the main Questline) are completed or in development.
 - A Biome O`Plenty world generation is at this moment not possible (Game-Crash)
 - Blood Altar- Chiseld Blood Runes missing textures.
 ```
@@ -50,7 +50,7 @@ The latest Version is 0.21 for the alpha users.
 ## Authors
 
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
-* **Furrofx**       - *External advisor* 
+* **Furrofox**       - *External advisor* 
 * **ReaZon**        - *Designer*
 * **X3**            - *Programming Process 
 
