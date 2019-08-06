@@ -14,7 +14,7 @@ Additional we recommend a Texture Pack cause we have big Problems with the Blodd
 ### Installing
 Download the Modpack Minecraft Paradise and start launching it. Have fun and show us your best work on Twitter via @ParadiseTeam2
 
-### Alpha
+## Alpha
 
 We woking onto it and we have a release next week to selected users and friends. PLEASE NOT FOLLOWING:
 
