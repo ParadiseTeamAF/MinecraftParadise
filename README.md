@@ -51,8 +51,7 @@ The latest Version is 0.21 for the alpha users.
 
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
 * **Furrofox**       - *External advisor* 
-* **ReaZon**        - *Designer and English Translator
-*
+* **ReaZon**        - *Designer and English Translator*
 * **X3**            - *Programming Process* 
 
 
