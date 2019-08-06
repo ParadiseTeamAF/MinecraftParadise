@@ -3,7 +3,7 @@ We present you the brand new Modpack Minecraft Paradise from our Team "Team Para
 
 ## Our Team
 
-We are a Team of three People. But to be honest one of us is only for questions. Due to some personla reasons I am the only person working on it now. So please apologize if I am not that fast you wish. I tiry to figue out any bugs and problems we have and had during the development.
+We are a Team of three People. But to be honest one of us is only for questions. Due to some personal reasons I am the only person working on it now. So please apologize if I am not that fast you wish. I try to figue out any bugs and problems we have and had during the development.
 
 ### Getting Started
 For our modpack you need at least on Program:
@@ -52,7 +52,7 @@ The latest Version is 0.21 for the alpha users.
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
 * **Furrofox**       - *External advisor* 
 * **ReaZon**        - *Designer*
-* **X3**            - *Programming Process 
+* **X3**            - *Programming Process* 
 
 
 ## Copyright
