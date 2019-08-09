@@ -31,7 +31,7 @@ Do the following steps:
 ```
 1. Download the received .zip File
 2. Go to the Twitch Launcher Mod Site
-3. Choose Minecraft and than go to three point menue
+3. Choose Minecraft and then go to three point menue
 4. Choose Create Custom Profile.
 5. Click on the "import" word and choose the zip File.
 6. The install process is starting and then you can start playing.
@@ -39,7 +39,7 @@ Do the following steps:
 
 ### Beta
 
-The Beta will be and open Beta for everyone on Twitch. Please note that there will be bugs.
+The Beta will be an open Beta for everyone on Twitch. Please note that there will be bugs.
 
 
 
@@ -50,7 +50,7 @@ The latest Version is 0.21 for the alpha users.
 ## Authors
 
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
-* **Furrofox**       - *External advisor* 
+* **Furrofox**       - *External advisor and Translator* 
 * **ReaZon**        - *Designer and English Translator*
 * **X3**            - *Programming Process* 
 
