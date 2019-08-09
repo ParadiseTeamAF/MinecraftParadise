@@ -9,7 +9,7 @@ We are a Team of four People. But to be honest one of us is only for questions. 
 For our modpack you need at least on Program:
  * Twitch Launcher
  
-Additional we recommend a Texture Pack cause we have big Problems with the Blodd Altar and Chiseld Blood Runes. We are sorry about that. A fix will come as soon as possible
+Additional we recommend a Texture Pack cause we have big Problems with the Blood Altar and Chiseld Blood Runes. We are sorry about that. A fix will come as soon as possible
 
 ### Installing
 Download the Modpack Minecraft Paradise and start launching it. Have fun and show us your best work on Twitter via @ParadiseTeam2
