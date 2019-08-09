@@ -1,5 +1,5 @@
 # Minecraft Paradise
-We present you the brand new Modpack Minecraft Paradise from our Team "Team Paradise". Its is a questbased modpack with many mods you have to use. Sometimes in Questline sometimes you need to look int the by mod deliverd Books. We are working on more quests as soon as possible to make it easier to get into each mod. Our problems are on the give-take side because we are often not sure which rewards we should distribute.
+We present you the brand new Modpack Minecraft Paradise from our Team "Team Paradise". Its is a questbased modpack with many mods you have to use. Most of the time you can use the Questbook but sometimes you need the Mod book, because we can't copy any Quest from Mod Developer. We are working on more quests as soon as possible to make it easier to get into each mod. Our problems are on the give-take side because we are often not sure which rewards we should distribute.
 
 ## Our Team
 
