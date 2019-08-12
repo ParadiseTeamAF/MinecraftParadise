@@ -45,7 +45,7 @@ The Beta will be an open Beta for everyone on Twitch. Please note that there wil
 
 ### Version
 
-The latest Version is 0.21 for the alpha users.
+The latest Version is (0.21) 0.33 for the alpha users.
 
 ## Authors
 
