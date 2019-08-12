@@ -25,6 +25,17 @@ We woking onto it and we have a release next week to selected users and friends.
 - Blood Altar- Chiseld Blood Runes missing textures.
 ```
 
+## Update
+```
+1. Go to your save folder and copy the world you are building in. 
+2. Paste it into a safe folder
+3. Remove the old modpack version. 
+4. Do the Installing Process 
+5. Launch the Modpack
+6. Copy your world back to the save folder
+7. Have fun
+```
+
 ## Installing
 Do the following steps:
 
