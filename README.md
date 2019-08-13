@@ -19,9 +19,9 @@ Download the Modpack Minecraft Paradise and start launching it. Have fun and sho
  PLEASE NOTE FOLLOWING:
 
 ```
-- Not all Questions did have a Reward.
+- Not all Questions did have a Reward. [fixed] 
 - Not all Questinons trees (Outside the main Questline) are completed or in development.
-- A Biome O`Plenty world generation is at this moment not possible (Game-Crash)
+- A Biome O`Plenty world generation is at this moment not possible (Game-Crash) [fixed] 
 - Blood Altar- Chiseld Blood Runes missing textures.
 ```
 
@@ -56,7 +56,7 @@ The Beta will be an open Beta for everyone on Twitch. Please note that there wil
 
 ### Version
 
-The latest Version is (0.21) 0.33 for the alpha users.
+The latest Version is (0.21) (0.33) 0.38 for the alpha users.
 
 ## Authors
 
