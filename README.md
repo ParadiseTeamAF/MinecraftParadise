@@ -16,7 +16,7 @@ Download the Modpack Minecraft Paradise and start launching it. Have fun and sho
 
 ## Alpha
 
-We woking onto it and we have a release next week to selected users and friends. PLEASE NOT FOLLOWING:
+ PLEASE NOTE FOLLOWING:
 
 ```
 - Not all Questions did have a Reward.
