@@ -1,6 +1,15 @@
 # Changelogs
 
 +---------------------------------/Alpha--------------------------------+
+
+## Version 0.38 :
+```
+Updated Forge to 14.23.5.2838
+Solved : 
+  Crash at creating new world with Biomes O'Plenty
+  Returning to main menu is not working.
+Edit Biomes O'Plenty Config   
+```
 ## Version 0.33 :
 ```
 Updated Abyssalcraft 
