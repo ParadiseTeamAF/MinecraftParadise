@@ -22,6 +22,7 @@ Updated Quark
 Added Water control Extreme
 
 Change Wooden Hammer recipes from Ex Nihilo
+Added New Main Menu
 Added Settings for water generation.
 ```
 
