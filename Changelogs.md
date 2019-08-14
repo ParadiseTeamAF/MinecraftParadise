@@ -23,6 +23,8 @@ Draconic Evolution: Infused Obsidian
 
 
 No knewn Bugs
+Edited: 
+It may happen that you can't create a Biomes O'Plenty world. A restart should fix the problem.
 ```
 
 ## Version 0.38 :
