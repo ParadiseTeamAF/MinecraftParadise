@@ -7,19 +7,19 @@
 Addded Extended Crafting Mod
 Changed Following recipes:
 Ender IO : Grains of Infinity
-Immersive: Redstone Engineering Block
-Immersive: Light Engineering Block
-Immersive: Heavy Engineering Block
-Draconic Evolution: Generator
-Draconic Evolution: Mob Grinder
-Draconic Evolution: Particle Generator
-Draconic Evolution: Energy Core Stabilizer
-Draconic Evolution: Dislocator Receptacle
-Draconic Evolution: Energy Core
-Draconic Evolution: Energy Pylon
-Draconic Evolution: Fusion Crafting Core
-Draconic Evolution: Reactor Stabilizer Frame#
-Draconic Evolution: Infused Obsidian
+- Immersive: Redstone Engineering Block
+- Immersive: Light Engineering Block
+- Immersive: Heavy Engineering Block
+- Draconic Evolution: Generator
+- Draconic Evolution: Mob Grinder
+- Draconic Evolution: Particle Generator
+- Draconic Evolution: Energy Core Stabilizer
+- Draconic Evolution: Dislocator Receptacle
+- Draconic Evolution: Energy Core
+- Draconic Evolution: Energy Pylon
+- Draconic Evolution: Fusion Crafting Core
+- Draconic Evolution: Reactor Stabilizer Frame#
+- Draconic Evolution: Infused Obsidian
 
 
 No knewn Bugs
