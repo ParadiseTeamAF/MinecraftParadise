@@ -6,7 +6,7 @@
 ```
 Addded Extended Crafting Mod
 Changed Following recipes:
-Ender IO : Grains of Infinity
+- Ender IO : Grains of Infinity
 - Immersive: Redstone Engineering Block
 - Immersive: Light Engineering Block
 - Immersive: Heavy Engineering Block
