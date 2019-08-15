@@ -1,6 +1,14 @@
 # Changelogs
 
 +---------------------------------/Alpha--------------------------------+
+## Version 0.491 :
+```
+Addded FTB Utilities.
+
+Bug:
+It may happen that you can't create a Biomes O'Plenty world. A restart should fix the problem.
+```
+
 ## Version 0.49 :
 ```
 Addded Immersive Railroad
