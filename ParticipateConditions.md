@@ -1,7 +1,7 @@
 # Participation conditions
  
 ## §1 Conditions 
-Persons who have reached the age of 14 are eligible to participate.
+Persons who have reached the age of 12 are eligible to participate.
 Minors may only participate in the competition with the consent of their legal representative.
 If you try to manipulate the Competition in any way you will get banned from our account and aren't allowed to participate in all following competitions. 
  
