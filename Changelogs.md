@@ -11,6 +11,7 @@ It may happen that you can't create a Biomes O'Plenty world. A restart should fi
 
 ## Version 0.49 :
 ```
+Downgraded Forge to:  .2837
 Addded Immersive Railroad
 Changed Stage of RFTools.
 
