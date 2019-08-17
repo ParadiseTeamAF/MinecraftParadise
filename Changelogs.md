@@ -1,6 +1,26 @@
 # Changelogs
++--------------------------------/Beta----------------------------------+
+## Version 0.50.1 :
+```
+Updated Advanced Rocketry
+Updated LibVulpes
+Updated My . Crayfishs Vehicle Mod.
+Upload to Twitch
 
+Bug:
+It may happen that you can't create a Biomes O'Plenty world. A restart should fix the problem.
+```
++---------------------------------Beta----------------------------------+
 +---------------------------------/Alpha--------------------------------+
+## Version 0.50.0 :
+```
+Updated Advanced Rocketry
+Updated LibVulpes
+Updated My . Crayfishs Vehicle Mod.
+
+Bug:
+It may happen that you can't create a Biomes O'Plenty world. A restart should fix the problem.
+```
 ## Version 0.49.1 :
 ```
 Addded FTB Utilities.
