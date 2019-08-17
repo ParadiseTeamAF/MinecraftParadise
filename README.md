@@ -50,13 +50,14 @@ Do the following steps:
 
 ### Beta
 
-The Beta will be an open Beta for everyone on Twitch. Please note that there will be bugs.
+The Beta is now open for everyone
+* Note: For the best main menu dont forget to set the GUI Scale to large.
 
 
 
 ### Version
 
-The latest Version is (0.21) (0.33) 0.38 for the alpha users.
+The latest Version is now the 0.50 Beta on Twitch.
 
 ## Authors
 
