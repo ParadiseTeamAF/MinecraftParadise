@@ -6,6 +6,7 @@ Updated Advanced Rocketry
 Updated LibVulpes
 Updated My . Crayfishs Vehicle Mod.
 Upload to Twitch
+Rename Project to Project Paradise
 
 Bug:
 It may happen that you can't create a Biomes O'Plenty world. A restart should fix the problem.
