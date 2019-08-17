@@ -1,6 +1,6 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
-## Version 0.50.1 :
+## Version 0.50 :
 ```
 Updated Advanced Rocketry
 Updated LibVulpes
