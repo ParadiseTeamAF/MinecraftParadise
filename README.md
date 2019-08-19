@@ -57,7 +57,7 @@ The Beta is now open for everyone
 
 ### Version
 
-The latest Version is now the 0.50 Beta on Twitch.
+The latest Version is now the 0.58 Beta on Twitch.
 
 ## Authors
 
