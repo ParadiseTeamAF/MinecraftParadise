@@ -1,5 +1,13 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
+## Version 0.58 :
+```
+Updated Better Shears.
+Changed Ochard Tree recipes to be harder.
+Changed Worldgen of Ores. More Ores will be in the World.
+Changed Immersive Railroad configs.
+Many other scripts have been adapted for a more consistent gaming experience.
+```
 ## Version 0.50 :
 ```
 Updated Advanced Rocketry
