@@ -30,12 +30,15 @@ Fitting in enviroment
 ## §3 Uploading 
 A presentation of your works is possible with the following means: (OR) 
 ```
+.zip World Save
 Picture 
 Video
 GIF
 ```
 On following platforms
 ```
+https://1drv.ms/f/s!AqMvopgnBIKkbFfjEXQqTGaUeUg
+
 Twitter
 YouTube
 Instagram
