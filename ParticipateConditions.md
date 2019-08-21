@@ -38,7 +38,6 @@ GIF
 On following platforms
 ```
 https://1drv.ms/f/s!AqMvopgnBIKkbFfjEXQqTGaUeUg
-
 Twitter
 YouTube
 Instagram
