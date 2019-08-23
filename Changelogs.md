@@ -1,5 +1,16 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
+## Version 0.60 :
+```
+Removed Mod Abyssalcraft
+Added Mod Animalia
+Added Mod Additional Structures.
+Rechanged Ochard Recipes a bit easier
+Adated Dynamic Trees Config.
+
+!!!Backup your World!!!
+```
+
 ## Version 0.58 :
 ```
 Updated Better Shears.
