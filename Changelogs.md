@@ -5,8 +5,13 @@
 Removed Mod Abyssalcraft
 Added Mod Animalia
 Added Mod Additional Structures.
+Updated FTB Utilities
+Updated Ancient warefare
+Updated RecipeStages.
+Updated Geolosys.
 Rechanged Ochard Recipes a bit easier
 Adated Dynamic Trees Config.
+
 
 !!!Backup your World!!!
 ```
