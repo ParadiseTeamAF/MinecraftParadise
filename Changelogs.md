@@ -1,6 +1,6 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
-## Version 0.60 :
+## Version Alpha 0.61 :
 ```
 Removed Mod Abyssalcraft
 Added Mod Animalia
@@ -15,6 +15,12 @@ Adated Dynamic Trees Config.
 
 !!!Backup your World!!!
 ```
+
+## Version 0.60
+```
+Rejected during some Mod Dependencies
+```
+  
 
 ## Version 0.58 :
 ```
