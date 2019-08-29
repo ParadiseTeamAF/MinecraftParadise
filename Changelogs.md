@@ -1,6 +1,6 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+7
-## Version Alpha 0.62 :
+## Version 0.62 :
 ```
 Released Alpha( Beta)  0.61 to Beta 0.62
 Updated Questbook
