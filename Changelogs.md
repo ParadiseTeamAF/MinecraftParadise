@@ -1,7 +1,7 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
 
-## Version 0.80:
+## Version Alpha/Beta 0.80:
 ```
 Updated Questbook
 Relocated Stages and Items
