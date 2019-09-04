@@ -1,5 +1,28 @@
 # Changelogs
-+--------------------------------/Beta----------------------------------+7
++--------------------------------/Beta----------------------------------+
+
+## Version 0.80:
+```
+Updated Questbook
+Relocated Stages and Items
+Updated Mod Actually Additions
+Updated Mod Advanced Rocketry
+Updated Mod EnderIO
+Updated Mod Endercore
+Updated Mod Extended Crafting
+Updated Mod FTB Libary
+Updated Mod Geolosys
+Updated Mod Immersive Engineering
+Updated MOd Storage Drawers
+
+Added a few new Items
+changed some recipes
+
+
+This time definitivly backup your world stats.
+
+Any bugs can be reported over github or twitter or discord. 
+```
 ## Version 0.62 :
 ```
 Released Alpha( Beta)  0.61 to Beta 0.62
