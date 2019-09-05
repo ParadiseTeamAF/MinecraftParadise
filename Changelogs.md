@@ -1,5 +1,14 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
+## Version 0.81 :
+```
+Downgraded EnderIO
+Downgraded EnderCore
+Updated Better Shears
+Updated Blood Magic
+Updated FTBLibary
+
+```
 
 ## Version Alpha/Beta 0.80:
 ```
