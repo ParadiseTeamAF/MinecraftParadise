@@ -57,7 +57,7 @@ The Beta is now open for everyone
 
 ### Version
 
-The latest Version is now the 0.58 Beta on Twitch.
+The latest Version is now the 0.81 Beta on Twitch.
 
 ## Authors
 
@@ -78,3 +78,4 @@ We usually need one to two working days to check.
 * **Twitter** -   (https://twitter.com/ParadiseTeam2)
 * **Mail** -      (ParadiseTeamAF@outlook.de)
 * **Instagram**  (@paradiseteam3)
+* **Discord**   (https://discord.gg/hPXynT)
