@@ -1,5 +1,32 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
+
+## Version 0.91 :
+```
+Added Mod 'Carry On'
+Added a Botania Questline. Short but a little starter guide. I'll add more in future.
+Added few easter eggs
+Re-added uni-dictonary. ( More Ore:stone ; ore:wheat ; and ore:WotF [Wand of the forest ])
+Re-added Ore spawn uni
+Re-added metal-unification
+Updated Forge to  14.23.5.2845
+updated enderio
+updated endercore
+
+```
+
+## Version 0.90 :
+```
+Added Mod 'Carry On'
+Added a Botania Questline. Short but a little starter guide. I'll add more in future.
+Added few easter eggs
+Re-added uni-dictonary. ( More Ore:stone ; ore:wheat ; and ore:WotF [Wand of the forest ])
+Re-added Ore spawn uni
+Re-added metal-unification
+
+```
+
+
 ## Version 0.81 :
 ```
 Downgraded EnderIO
