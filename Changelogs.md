@@ -1,6 +1,21 @@
 # Changelogs
 +--------------------------------/Beta----------------------------------+
+## Version 0.99 :
+```
+Added Mod 'Carry On'
+Bigger Thaumcraft Questline, half based on @matsfummels
 
+Updated Actually additions
+updated advanced rocketry
+Updated FTBLibary
+Updated FTBUtlitys
+
+Added Thaumcraft 6 Aspects for JEI
+Added Dynamic Tress for Thaumcraft Trees
+Added Dynamic Trees- Biomes O'plenty
+Added Dynamic Trees - pams harvestcraft 
+
+```
 ## Version 0.91 :
 ```
 Added Mod 'Carry On'
