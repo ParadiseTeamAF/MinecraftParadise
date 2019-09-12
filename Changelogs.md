@@ -2,7 +2,6 @@
 +--------------------------------/Beta----------------------------------+
 ## Version 0.99 :
 ```
-Added Mod 'Carry On'
 Bigger Thaumcraft Questline, half based on @matsfummels
 
 Updated Actually additions
