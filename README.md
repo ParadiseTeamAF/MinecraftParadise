@@ -61,10 +61,15 @@ The latest Version is now the 0.81 Beta on Twitch.
 
 ## Authors
 
+Latest active
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
+
+A month ago active 
 * **Furrofox**       - *External advisor and Translator* 
 * **ReaZon**        - *Designer and English Translator*
-* **X3**            - *Programming Process* 
+
+NDBO
+* ~~**X3**            - *Programming Process*~~  
 
 
 ## Copyright
