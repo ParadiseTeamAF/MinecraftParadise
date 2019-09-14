@@ -1,4 +1,21 @@
 # Changelogs
+
++--------------------------------/Release----------------------------------+
+## Version 1.0.1 :
+```
+First release
+
+ 
+Updated Advanced Rocketry
+Updated FBT Utiilitys
+Updated Better Shears
+Remove Thaumcraft 6 Aspects for JEI (not working)
+Added Thaumic JEI instead
+Added few Thaumcraft quests
+
+```
++--------------------------------Release----------------------------------+
+
 +--------------------------------/Beta----------------------------------+
 ## Version 0.99 :
 ```
