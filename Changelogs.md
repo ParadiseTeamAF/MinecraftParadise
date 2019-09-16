@@ -12,6 +12,8 @@ updated geolosys
 updated Shadowfacts' Forgelin	
 added two more backgrounds
 adjust some configs.
+
+Added a few Astral sorcery Quests. 
 ```
 
 ## Version 1.0.1 :
