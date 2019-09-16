@@ -1,6 +1,19 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+
+## Version 1.0.5 :
+```
+updated animania
+updated better questing
+updated better questing- rf expanison
+updated better questing- standart expansion
+updated geolosys
+updated Shadowfacts' Forgelin	
+added two more backgrounds
+adjust some configs.
+```
+
 ## Version 1.0.1 :
 ```
 First release
