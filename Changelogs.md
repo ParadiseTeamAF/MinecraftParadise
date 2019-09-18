@@ -2,6 +2,18 @@
 
 +--------------------------------/Release----------------------------------+
 
+
+## Version 1.0. :
+```
+Fixed Bug: Cant access Age 2
+
+Fixed Bug Autocomplete Quest
+
+Fixed Bug With tinkers
+
+fixed recipe for age 1 baguette
+```
+
 ## Version 1.0.5 :
 ```
 updated animania
