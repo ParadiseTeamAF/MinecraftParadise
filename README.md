@@ -57,7 +57,7 @@ The Beta is now open for everyone
 
 ### Version
 
-The latest Version is now the 0.81 Beta on Twitch.
+The latest Version is now the 1.06b Beta on Twitch.
 
 ## Authors
 
@@ -65,11 +65,11 @@ Latest active
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
 
 A month ago active 
-* **Furrofox**       - *External advisor and Translator* 
 * **ReaZon**        - *Designer and English Translator*
 
 NDBO
 * ~~**X3**            - *Programming Process*~~  
+* ~~**Furrofox**       - *External advisor and Translator*~~
 
 
 ## Copyright
