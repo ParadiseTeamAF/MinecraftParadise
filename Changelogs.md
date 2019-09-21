@@ -1,7 +1,12 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+## Version 1.10 :
+```
+Fixed some bugs prevent reaching stage 'Store and Melt'
 
+Fixed a recipe
+```
 
 ## Version 1.0.6 / 1.0.6b :
 ```
