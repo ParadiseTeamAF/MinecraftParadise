@@ -2,6 +2,29 @@
 
 +--------------------------------/Release----------------------------------+
 
+## Version 1.12.2 :
+```
+Added Recipe for Alloying Redstone Alloy Ingot
+Adjust EnderIO for Stages (fix)
+Disable Gravestone in open blocks (the other one is nicer)
+small other bug fixes [ like a gamecrash while using the gamestage book Garden Eden ]
+
+__Updated Mods:__
+Better questing
+Better questing rf expansion
+Better questing standet expansion
+Ex nihilo
+FTB Utlities
+Geolosys
+Grave Stone Mod
+Shadowfacts forgelin
+Animania
+
+
+
+```
+
+
 ## Version 1.11 :
 ```
 Added a recipe for bronze
