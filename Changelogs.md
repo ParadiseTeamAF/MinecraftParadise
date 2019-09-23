@@ -1,6 +1,14 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+
+## Version 1.11 :
+```
+Added a recipe for bronze
+Adjust the questline
+many bugfixes
+```
+
 ## Version 1.10 :
 ```
 Fixed some bugs prevent reaching stage 'Store and Melt'
