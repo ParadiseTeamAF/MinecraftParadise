@@ -2,6 +2,13 @@
 
 +--------------------------------/Release----------------------------------+
 
+
+## Version 2.0.0 :
+```
+Updated Animania
+Added Mod Iron Bckpacks withou Stage interaction (if you find iron, your free to upgrade)
+A few Bugfixes
+```
 ## Version 1.12.2 :
 ```
 Added Recipe for Alloying Redstone Alloy Ingot
