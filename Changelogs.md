@@ -1,7 +1,16 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+## Version 2.1.0- Designer Update :
+```
+__Added Mods:__
+Decocraft
+Mr Crayfish's Furniture Mod
+Fences Overhaul
 
+Added a saved world for a beginners start: You can use it but it is half the fun.
+But who knows, maybe you have fun.
+```
 
 ## Version 2.0.0 :
 ```
