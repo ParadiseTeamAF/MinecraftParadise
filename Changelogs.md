@@ -1,6 +1,13 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+
+## Version 2.1.1 :
+```
+__Added Mods:__
+Better Questing
+Ore Excavation
+```
 ## Version 2.1.0- Designer Update :
 ```
 __Added Mods:__
