@@ -1,7 +1,36 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+ Version 2.2.1 :
+```
+__Updated Mods:__
+Pollution of Realms
+JEI
+FTB Libary
+FTB Backpus
+FTB Utilities
+Forge Endertech
+Forestry
+FoamFix
+Better Questing Standart Expansion
+Better Shears
+```
+ Version 2.2.0 :
+```
 
+
+Added following Mods:
+Pollution of Realms
+Advanced Chimneys
+Streams
+Weather, Storms & Tornados
+
+Updated Following:
+Imemrsive Engineering
+
+Adjust some configs for the new mods.
+Tip: Better do not Pollute your Enviroment
+```
 ## Version 2.1.1 :
 ```
 __Added Mods:__
