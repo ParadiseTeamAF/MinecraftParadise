@@ -1,7 +1,8 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
- Version 2.2.1 :
+
+## Version 2.2.1 :
 ```
 __Updated Mods:__
 Pollution of Realms
@@ -15,7 +16,7 @@ FoamFix
 Better Questing Standart Expansion
 Better Shears
 ```
- Version 2.2.0 :
+## Version 2.2.0 :
 ```
 
 
