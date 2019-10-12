@@ -2,7 +2,16 @@
 
 +--------------------------------/Release----------------------------------+
 
-## Version 2.2.1 :
+## Version 2.3.0 :
+```
+__Added Mods:__
+Added Mods
+NetherEx
+Natural Nether Portals
+Netherending Ores
+Backup your World, could be dangerous without
+Ignore the message that the world gen will be overwritten, if you get them.
+
 ```
 __Updated Mods:__
 Pollution of Realms
