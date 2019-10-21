@@ -64,10 +64,8 @@ The latest Version is now the 1.06b Beta on Twitch.
 Latest active
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
 
-A month ago active 
-* **ReaZon**        - *Designer and English Translator*
-
 NDBO
+* **ReaZon**        - *Designer and English Translator*
 * ~~**X3**            - *Programming Process*~~  
 * ~~**Furrofox**       - *External advisor and Translator*~~
 
