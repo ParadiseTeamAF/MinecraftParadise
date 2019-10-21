@@ -52,4 +52,6 @@ You will get a shotout and a place in the main menu for a amount of time.
 ## §5 Exeption
 We are free to callout a monthly Competition between the Winners of the weekly Task. 
 The Quest is the same as for all other participant but in this case we will choose two winners. One from the old month and a new one. 
+
+We are also free to interrupt a competition or dont start any, if we have the opinion nobody will be participate.
  
