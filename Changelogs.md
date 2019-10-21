@@ -1,6 +1,37 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+## Version 2.4.0 :
+```
+__Added Mods:__
+the NO-Holds-Barred Halloween Mod: Back from the Death
+
+__Updated Mods: __
+Advanced Chimneys
+Advanced Rocketry
+Better Questing
+Connected Textures 
+Chisel
+Constructs Armory
+Ender Io
+Ender Core
+FoamFix for Minecraft
+Forestry
+ForgeEnderetch
+FTB Libary
+FTB Utilitis
+Geolosys
+LibVulpes
+Minecolonies
+Pollution of the Realms
+
+
+Scripts:
+Adjust some configs
+delete doubled scripts
+adjust stage items
+
+```
 
 ## Version 2.3.0 :
 ```
