@@ -1,6 +1,17 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+
+## Version 2.4.1.1 :
+```
+__Forge:__
+Version .2347
+
+__Updated Mods: __
+Tinkers Construct
+
+```
+
 ## Version 2.4.0 :
 ```
 __Added Mods:__
