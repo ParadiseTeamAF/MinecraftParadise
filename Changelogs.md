@@ -1,7 +1,20 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+## Version 2.4.1.3 :
+```
+Thanks to Skyemelia!
+I've done a few adjustments in the dynamic Trees Config, so you are abel to place down vanilla oak saplings.
+You get them in a Quest. Place down and you are abel to harvest silkworms and place them
+I had to do this,because DT aren`t supporting Ex Nihilo Creatio.
+Hope that fix it.
+Wait for your Feedback.
 
+```
+## Version 2.4.1.1 :
+```
+Adjust Configs to work correctly, no duplicated Reciepes
+```
 ## Version 2.4.1.1 :
 ```
 __Forge:__
