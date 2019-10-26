@@ -11,7 +11,7 @@ Hope that fix it.
 Wait for your Feedback.
 
 ```
-## Version 2.4.1.1 :
+## Version 2.4.1.2 :
 ```
 Adjust Configs to work correctly, no duplicated Reciepes
 ```
