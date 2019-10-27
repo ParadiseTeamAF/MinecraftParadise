@@ -65,7 +65,7 @@ Latest active
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
 
 NDBO
-* **ReaZon**        - *Designer and English Translator*
+* ~~**ReaZon**        - *Designer and English Translator*~~
 * ~~**X3**            - *Programming Process*~~  
 * ~~**Furrofox**       - *External advisor and Translator*~~
 
