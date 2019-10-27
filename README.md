@@ -64,6 +64,9 @@ The latest Version is now the 1.06b Beta on Twitch.
 Latest active
 * **Toscanphoenix** - *Design and Programming Process* - *Supervisor*
 
+## Help
+* **Lakota5225** - * Helping building an maintain a Discord Server *
+
 NDBO
 * ~~**ReaZon**        - *Designer and English Translator*~~
 * ~~**X3**            - *Programming Process*~~  
