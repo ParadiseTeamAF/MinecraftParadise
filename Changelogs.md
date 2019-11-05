@@ -1,6 +1,24 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+
+## Version 2.4.1.4
+```
+Updated Mods:
+Animania
+Better Questing
+Better Questing Standard Expansion
+Carry On
+Constructs Armory
+Exnihilo
+FTB BAckups
+FTB Libary
+FTB Utlities
+Minecolonies
+
+Adjust Drawer Quest on Stage Store and Melt
+
+```
 ## Version 2.4.1.3 :
 ```
 Thanks to Skyemelia!
