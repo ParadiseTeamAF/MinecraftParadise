@@ -42,4 +42,11 @@ Persons who have reached the age of 12 are eligible to participate. Minors may o
  ```
  (2) A violation of (1) will result in immediate exclusion from the competition.
 
+### §5
+the winner will be chosen by random generator. 
 
+### §6
+Additional tickets can be purchased with the following
+- ProjectParadise House 
+- a tagged friend participates
+- retweet
