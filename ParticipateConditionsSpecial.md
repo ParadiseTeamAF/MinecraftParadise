@@ -10,7 +10,7 @@ You need to do the following.
 ## Periode
 Start: Appearance of the Tweet
 
-End: 28. December 2019 23:59
+End: 21. December 2019 23:59
 
 ## Price
 10 € or 10 $ Amazon gift coupon. 
