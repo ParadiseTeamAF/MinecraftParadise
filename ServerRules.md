@@ -1,23 +1,26 @@
-##General Rules 
-§1 Minecraft Account Using 
+### General Rules 
+## §1 Minecraft Account Using 
 (1)	You are not allowed to use any cracked Minecraft Account. 
 (2)	Using alternative Minecraft Accounts for avoiding any punishment is forbidden. 
-(3)	You are not allowed to use any stolen Minecraft Account. 
-§1b Minecraft Account Features
+(3)	You are not allowed to use any stolen Minecraft Account.
+
+## §1b Minecraft Account Features
 (1)	Usage of inappropriate/offensive features on Minecraft accounts is not allowed.
 (2)	Inappropriate / Offensive Minecraft Account names are not allowed.
 (3)	Minecraft Account names that are saying/threatening/implying that you will/are breaking any Rules could also be considered a violation of rule (1)  and §2 as well, depending on the said rule that is being broken.
 (4)	Inappropriate / Offensive Minecraft Skins are not allowed.
 (5)	Inappropriate / Offensive Minecraft Capes are not allowed.
 (6)	Inappropriate / Offensive Minecraft nicknames are not allowed
-§2 Server Abuse
+
+## §2 Server Abuse
 (1)	You are not allowed to abuse the server in any way to create an advantage. 
 (2)	Abusing a Server Plugin bug/glitch which creates an unfair advantage is not allowed.
 (3)	Abusing how the server is setup in any way to obtain an unfair advantage is not allowed.
-(4)	Using a Minecraft glitch to create an advantage is forbidden. 
+(4)	Using a Minecraft glitch to create an advantage is forbidden.
+
 *Glitches and bugs must be reported to the developers. Exploitation of an error without a report to the administrator will be punished as a violation. In the case of bugs created by mistake, the administrators do not act and there is no punishment. Prerequisite is reporting the error. 
 
-Interaction Rules 
+##Interaction Rules 
 §3 Chat
 (1)	You are not allowed to make any type of advertising. 
 (2)	Excessive writing (spamming) is not allowed. 
