@@ -79,15 +79,16 @@
 * (7)	PvP is allowed but killing one player multiple times in a row is not allowed. All dropped things are Property of the Player who drops it.
 
 ## §8 General Rules
-* (1)	Every Player needs a Home. Above or Underground doesn’t matter. This means  
+* (1)	Every Player needs a Home. Above or Underground doesn’t matter. This means you can't build the machines. 
 * (2)	The size is maximum of 4 Chunks (2x2).
 * (3)	Enough distance to your neighbour. Team workers are not affected.
   ** a.	At least 2 Chunks between
 * (4)	Community construction projects are allowed and desired. In the case of buildings, the same rules count as in Section 5
-* (5)	Teamwork is allowed. @Overrides §8.2 Size is (Player amount * 4). 
+* (5)	Teamwork is allowed. @Overrides §8.2 Size is (Player amount * 4).
+* (6)   Landing pads can be build outside the 4 chunks.But keep them a minimum. 2 Landing pads Max per player. 
 
 ## §9 Teamwork
-* (1)	The Number of Players in a Team is 4.
+* (1)	The maximum Number of Players in a Team is 4.
 * (2)	Teams are not allowed to attack one people (1 vs. 1 is allowed only)
 * (3)	All other rules apply to you too. (Exclude §8 (3))
 
