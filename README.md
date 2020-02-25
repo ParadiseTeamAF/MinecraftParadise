@@ -1,5 +1,5 @@
 # Minecraft Paradise
-We present you the brand new modpack Project Paradise from Team "Team Paradise". It's a questbased modpack with many new and exciting mods you have to use.
+We present you the brand new modpack Project Paradise from "Team Paradise". It's a quest based modpack with many new and exciting mods you have to use.
 
 ## Our Team
 
@@ -9,10 +9,10 @@ We are a team of several people. We have myself @Toscanphoenix and two others ab
 For our modpack you need at least on Program:
  * [Twitch Launcher](https://www.twitch.tv/downloads)
  
-Additionally we recommend a Texture Pack because we have had problems with the Blood Altar and Chiseld Blood Runes. A fix will come as soon as possible
+Additionally we recommend a Texture Pack because we have had problems with the Blood Altar and Chiseled Blood Runes. A fix will come as soon as possible
 
 ### Installing
-Download the Modpack Minecraft Paradise and start launching it. Have fun and show us your best work on Twitter via @ParadiseTeam2
+Download the modpack Project Paradise and start launching it. Have fun and show us your best work on Twitter via @ParadiseTeam2
 
 ## Development
 
@@ -50,7 +50,7 @@ Go to mods then minecraft it may want you to enable or install minecraft first.
 Method 2
 1. Download the .zip File (https://www.curseforge.com/minecraft/modpacks/minecraft-project-paradise/files)
 2. Go to the Twitch Launcher Mod Site
-3. Choose Minecraft and then go to three point menue
+3. Choose Minecraft and then go to three-point menu
 4. Choose Create Custom Profile.
 5. Click on the "import" word and choose the zip File.
 6. The install process is starting and then you can start playing.
@@ -59,7 +59,7 @@ Method 2
 ### Version
 
 The latest Version is now the 2.6.1 on Twitch.
-* Note: For the best main menu dont forget to set the GUI Scale to large.
+* Note: For the best main menu don't forget to set the GUI Scale to large.
 
 ## Authors
 
@@ -70,7 +70,7 @@ Latest active
 * **DreadPirateRoberts** - *Server Development and optimization*
 
 ## Help
-* **Lakota5225** - *Helping building an maintain a Discord Server*
+* **Lakota5225** - *Help building and maintaining a Discord Server*
 * **DreadPirateRoberts** - *Server Development and optimization*
 
 NDBO
