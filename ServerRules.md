@@ -1,8 +1,8 @@
 # General Rules 
 ## §1 Minecraft Account Using 
-(1)	You are not allowed to use any cracked Minecraft Account. 
-(2)	Using alternative Minecraft Accounts for avoiding any punishment is forbidden. 
-(3)	You are not allowed to use any stolen Minecraft Account.
+* (1)	You are not allowed to use any cracked Minecraft Account. 
+* (2)	Using alternative Minecraft Accounts for avoiding any punishment is forbidden. 
+* (3)	You are not allowed to use any stolen Minecraft Account.
 
 ## §1b Minecraft Account Features
 (1)	Usage of inappropriate/offensive features on Minecraft accounts is not allowed.
