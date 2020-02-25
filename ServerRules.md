@@ -105,12 +105,13 @@
 
 Keep the order of ranks.
 Toscanphoenix -> Lakota / Dreadpirateroberts -> Mods/Staff
+
 Toscanphoenix, Lakota and Dreadpirateroberts are allowed to do following:
-  ** a.	Permanantly ban
-  ** b.	Punish staff members 
-  ** c.	Revoke a Punishment
-  ** d.	Make decisions for the server and Modpack
-  ** e.	Adding or deleting Rules over time.
+  * a.	Permanantly ban
+  * b.	Punish staff members 
+  * c.	Revoke a Punishment
+  * d.	Make decisions for the server and Modpack
+  * e.	Adding or deleting Rules over time. 
 
 
 Any violation of the listed rules will be prosecuted. Exceptions have been described. The decisions of the moderators are to be respected. 
