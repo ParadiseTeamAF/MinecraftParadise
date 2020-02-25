@@ -1,4 +1,4 @@
-### General Rules 
+# General Rules 
 ## §1 Minecraft Account Using 
 (1)	You are not allowed to use any cracked Minecraft Account. 
 (2)	Using alternative Minecraft Accounts for avoiding any punishment is forbidden. 
@@ -20,8 +20,8 @@
 
 *Glitches and bugs must be reported to the developers. Exploitation of an error without a report to the administrator will be punished as a violation. In the case of bugs created by mistake, the administrators do not act and there is no punishment. Prerequisite is reporting the error. 
 
-##Interaction Rules 
-§3 Chat
+# Interaction Rules 
+## §3 Chat
 (1)	You are not allowed to make any type of advertising. 
 (2)	Excessive writing (spamming) is not allowed. 
 (3)	Abusing the Minecraft Chat function in any other way is forbidden. 
@@ -46,72 +46,77 @@
 (22)	Asking for OP or Ranks are not allowed. 
 (23)	Overuse Caps is forbidden. 
 
-§4 Mods
+## §4 Mods
 (1)	Respect the Decisions of the moderators.
 (2)	Do not spam the Moderators or the executive. 
 (3)	Decisions are set. Only the executive floor (Toscanphoenix, Lakota, Dread) can revoke decision
 
-Gameplay Rules
-§5 Spawn
+# Gameplay Rules
+## §5 Spawn
 (1)	Build within a range of 160 blocks around the Spawn is forbidden. 
 (2)	Mining or destroying at the spawn is not allowed. 
 (3)	PvP at the spawn is illegal. It’s a safe area. 
-(4)	Read the signs they are attached there. 
-§6 World
+(4)	Read the signs they are attached there.
+
+## §6 World
 (1)	1x1 Towers are forbidden. You build one – you need to destroy it after the usage. 
 (2)	Holes from creepers or explosion on the surface should be renovated. 
-(3)	“Dirtdicks” shouldn’t be every were. [We have this in mind] 
-§7 Other Players
+(3)	“Dirtdicks” shouldn’t be every were. [We see it]
+
+## §7 Other Players
 (1)	Do not troll other people. Traps are allowed if:
-a.	The player isn’t harmed at all
-b.	The player isn’t stuck. (Netherportal-Trap)
-c.	Other Property isn’t destroyed. See §7.3
+  a.	The player isn’t harmed at all
+  b.	The player isn’t stuck. (Netherportal-Trap)
+  c.	Other Property isn’t destroyed. See §7.3
 (2)	Stealing is not allowed. If you need something, ask them. 
 (3)	Destroy other gamers building is forbidden. If it happens accidentally inform the Mods and the player and try to repair it. 
 (4)	Entering the property of others is forbidden if it has been fenced or marked. Landing innocently on an area is allowed. This means:
-a.	Going through a nether portal and landing accidently in another portal.
-b.	Explosions which shoots you on a Property.
-c.	No Way around it. (Monster or Walls which can’t be climbed
+  a.	Going through a nether portal and landing accidently in another portal.
+  b.	Explosions which shoots you on a Property.
+  c.	No Way around it. (Monster or Walls which can’t be climbed
 (5)	Stealing Energy is forbidden too.
 (6)	Looting gravestones from other players without their permission is forbidden.
 (7)	PvP is allowed but killing one player multiple times in a row is not allowed. All dropped things are Property of the Player who drops it.
-§8 General Rules
+
+## §8 General Rules
 (1)	Every Player needs a Home. Above or Underground doesn’t matter. This means  
 (2)	The size is maximum of 4 Chunks (2x2).
 (3)	Enough distance to your neighbour. Team workers are not affected.
-a.	At least 2 Chunks between
+  a.	At least 2 Chunks between
 (4)	Community construction projects are allowed and desired. In the case of buildings, the same rules count as in Section 5
 (5)	Teamwork is allowed. @Overrides §8.2 Size is (Player amount * 4). 
-§9 Teamwork
+
+## §9 Teamwork
 (1)	The Number of Players in a Team is 4.
 (2)	Teams are not allowed to attack one people (1 vs. 1 is allowed only)
 (3)	All other rules apply to you too. (Exclude §8 (3))
-Staff rules
-§10 Staff Rules
+
+# Staff rules
+## §10 Staff Rules
 (1)	Do not spawn items for other players or yourself.
 (2)	Rules apply to you too.
 (3)	Do not take advantages of your privileges.
 (4)	Obey your superiors.
 (5)	No punishment without a reason. This means:
-a.	Warn him and mute him
-b.	No permanently ban 
+  a.	Warn him and mute him
+  b.	No permanently ban 
 (6)	Do not punish other staff members. 
 
 Keep the order of ranks.
 Toscanphoenix -> Lakota / Dreadpirateroberts -> Mods/Staff
 Toscanphoenix, Lakota and Dreadpirateroberts are allowed to do following:
-a.	Permanantly ban
-b.	Punish staff members 
-c.	Revoke a Punishment
-d.	Make decisions for the server and Modpack
-e.	Adding or deleting Rules over time.
+  a.	Permanantly ban
+  b.	Punish staff members 
+  c.	Revoke a Punishment
+  d.	Make decisions for the server and Modpack
+  e.	Adding or deleting Rules over time.
 
 
 Any violation of the listed rules will be prosecuted. Exceptions have been described. The decisions of the moderators are to be respected. 
 A temporary ban or a complete exclusion from the server is possible. Warnings will also be distributed. If these become more frequent, we will take ban measures.
 The rules apply to everyone on the server. Only for teams §8 paragraph 3 does not apply.
 
-Punishments:
+# Punishments:
 Against §1, §2: permanently ban
 §1b: Temporarily ban until player fixed it. 
 §3 & §4: Warnings -> Mute -> Temporarily ban -> Give it to the supervisors
