@@ -6,7 +6,7 @@ We present you the brand new modpack Project Paradise from "Team Paradise". It's
 We are a team of several people. We have myself @Toscanphoenix and two others able to help or answer general question in the [Discord](https://discord.gg/uBTH2W2). One of us will try to respond in a timely manner.
 
 ### Getting Started
-For our modpack you need at least on Program:
+For our modpack you need at least one Program:
  * [Twitch Launcher](https://www.twitch.tv/downloads)
  
 Additionally we recommend a Texture Pack because we have had problems with the Blood Altar and Chiseled Blood Runes. A fix will come as soon as possible
