@@ -69,70 +69,65 @@ Further information about the collection and use of data as well as your rights 
 https://policies.google.com/privacy
 Server Privacy Policy Registration In order to use the server, a user must first complete the registration form on paradise-team.com . During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required. The Data will be safetly stored.
 
-<p>We offer you the opportunity to take part in contests on our website. If you participate in one of our competitions, the data you provide when you enter will be processed without your further consent, but only to run the contest.</p>
-<p>As part of the competition, we will pass on your data to the transport company entrusted with the delivery of the goods or to a financial service provider if the transfer is necessary for the delivery or payment of your winnings. If you win and your information is to be published, you will be informed of this in the declaration of consent.</p>
-<p>The legal basis for the transfer of this data is Art. 6 Para. 1 lit. b) GDPR.</p>
-<p>Your consent to the processing of your data for participation in our competitions may be exercised in accordance with Art. 7 Para. 3 GDPR with future effect. All you have to do is inform us that you are revoking your consent.</p>
+We offer you the opportunity to take part in contests on our website. If you participate in one of our competitions, the data you provide when you enter will be processed without your further consent, but only to run the contest.
+As part of the competition, we will pass on your data to the transport company entrusted with the delivery of the goods or to a financial service provider if the transfer is necessary for the delivery or payment of your winnings. If you win and your information is to be published, you will be informed of this in the declaration of consent.
+The legal basis for the transfer of this data is Art. 6 Para. 1 lit. b) GDPR.
+Your consent to the processing of your data for participation in our competitions may be exercised in accordance with Art. 7 Para. 3 GDPR with future effect. All you have to do is inform us that you are revoking your consent.
 
-<h4>Twitter</h4>
-<p>We maintain an online presence on Twitter to present our company and our services and to communicate with customers/prospects. Twitter is a service provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.</p>
-<p>We would like to point out that this might cause user data to be processed outside the European Union, particularly in the United States. This may increase risks for users that, for example, may make subsequent access to the user data more difficult. We also do not have access to this user data. Access is only available to Twitter. Twitter Inc. is certified under the Privacy Shield and committed to adhering to European privacy standards.</p>
-<p><a href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active</a></p>
-<p>The privacy policy of Twitter can be found at</p>
-<p><a href="https://twitter.com/de/privacy" target="_blank" rel="noopener">https://twitter.com/privacy</a></p>
+Twitter
+We maintain an online presence on Twitter to present our company and our services and to communicate with customers/prospects. Twitter is a service provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.
+We would like to point out that this might cause user data to be processed outside the European Union, particularly in the United States. This may increase risks for users that, for example, may make subsequent access to the user data more difficult. We also do not have access to this user data. Access is only available to Twitter. Twitter Inc. is certified under the Privacy Shield and committed to adhering to European privacy standards.
+https://twitter.com/privacy
 
-<h4>Social media links via graphics</h4>
-<p>We also integrate the following social media sites into our website. The integration takes place via a linked graphic of the respective site. The use of these graphics stored on our own servers prevents the automatic connection to the servers of these networks for their display. Only by clicking on the corresponding graphic will you be forwarded to the service of the respective social network.</p>
-<p>Once you click, that network may record information about you and your visit to our site. It cannot be ruled out that such data will be processed in the United States.</p>
-<p>Initially, this data includes such things as your IP address, the date and time of your visit, and the page visited. If you are logged into your user account on that network, however, the network operator might assign the information collected about your visit to our site to your personal account. If you interact by clicking Like, Share, etc., this information can be stored your personal user account and possibly posted on the respective network. To prevent this, you need to log out of your social media account before clicking on the graphic. The various social media networks also offer settings that you can configure accordingly.</p>
-<p>The following social networks are integrated into our site by linked graphics:</p>
+Social media links via graphics
+We also integrate the following social media sites into our website. The integration takes place via a linked graphic of the respective site. The use of these graphics stored on our own servers prevents the automatic connection to the servers of these networks for their display. Only by clicking on the corresponding graphic will you be forwarded to the service of the respective social network.
+Once you click, that network may record information about you and your visit to our site. It cannot be ruled out that such data will be processed in the United States.
+Initially, this data includes such things as your IP address, the date and time of your visit, and the page visited. If you are logged into your user account on that network, however, the network operator might assign the information collected about your visit to our site to your personal account. If you interact by clicking Like, Share, etc., this information can be stored your personal user account and possibly posted on the respective network. To prevent this, you need to log out of your social media account before clicking on the graphic. The various social media networks also offer settings that you can configure accordingly.
+The following social networks are integrated into our site by linked graphics:
 
-<h4>twitter</h4>
-<p>Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA</p>
-<p>Privacy Policy: <a href="https://twitter.com/privacy" target="_blank" rel="noopener">https://twitter.com/privacy</a></p>
-<p>EU-US Privacy Shield</p>
-<p><a href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/…0000TORzAAO&amp;status=Active</a></p>
-
-<h4>Twitter plug-in</h4>
-<p>Our website uses the plug-in of the Twitter social network. The Twitter service is operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA ("Twitter").</p>
-<p>Through certification according to the EU-US Privacy Shield</p>
-<p><a href="https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp;status=Active</a></p>
-<p>Twitter guarantees that it will follow the EU's data protection regulations when processing data in the United States.</p>
-<p>The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in improving the quality of our website.</p>
-<p>If the plug-in is stored on one of the pages you visit on our website, your browser will download an icon for the plug-in from Twitter's servers in the USA. For technical reasons, it is necessary for Twitter to process your IP address. In addition, the date and time of your visit to our website will also be recorded.</p>
-<p>If you are logged in to Twitter while visiting one of our plugged-in websites, the information collected by the plug-in from your specific visit will be recognized by Twitter. The information collected may then be assigned to your personal account at Twitter. If, for example, you use the Twitter Tweet button, this information will be stored in your Twitter account and may be published on the Twitter platform. To prevent this, you must either log out of Twitter before visiting our site or make the appropriate settings in your Twitter account.</p>
-<p>Further information about the collection and use of data as well as your rights and protection options in Twitter's privacy policy found at</p>
-<p><a href="https://twitter.com/privacy" target="_blank" rel="noopener">https://twitter.com/privacy</a></p>
-
-<h4>Google reCAPTCHA</h4>
-<p>Our website uses Google reCAPTCHA to check and prevent automated servers ("bots") from accessing and interacting with our website. This is a service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (hereinafter: Google).</p>
-<p>Through certification according to the EU-US Privacy Shield</p>
-<p><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a></p>
-<p>Google guarantees that it will follow the EU's data protection regulations when processing data in the United States.</p>
-<p>This service allows Google to determine from which website your request has been sent and from which IP address the reCAPTCHA input box has been used. In addition to your IP address, Google may collect other information necessary to provide and guarantee this service.&nbsp;&nbsp;&nbsp;</p>
-<p>The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in the security of our website and in the prevention of unwanted, automated access in the form of spam or similar.</p>
-<p>Google offers detailed information at</p>
-<p><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">https://policies.google.com/privacy</a></p>
-<p>concerning the general handling of your user data.</p>
-
-<h4>YouTube</h4>
-<p>We use YouTube on our website. This is a video portal operated by YouTube LLC, 901 Cherry Ave, 94066 San Bruno, CA, USA, hereinafter referred to as "YouTube".</p>
-<p>YouTube is a subsidiary of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, hereinafter referred to as "Google".</p>
-<p>Through certification according to the EU-US Privacy Shield</p>
-<p><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active" target="_blank" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a></p>
-<p>Google and its subsidiary YouTube guarantee that they will follow the EU's data protection regulations when processing data in the United States.</p>
-<p>We use YouTube in its advanced privacy mode to show you videos. The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in improving the quality of our website. According to YouTube, the advanced privacy mode means that the data specified below will only be transmitted to the YouTube server if you actually start a video.</p>
-<p>Without this mode, a connection to the YouTube server in the USA will be established as soon as you access any of our webpages on which a YouTube video is embedded.</p>
-<p>This connection is required in order to be able to display the respective video on our website within your browser. YouTube will record and process at a minimum your IP address, the date and time the video was displayed, as well as the website you visited. In addition, a connection to the DoubleClick advertising network of Google is established.</p>
-<p>If you are logged in to YouTube when you access our site, YouTube will assign the connection information to your YouTube account. To prevent this, you must either log out of YouTube before visiting our site or make the appropriate settings in your YouTube account.</p>
-<p>For the purpose of functionality and analysis of usage behavior, YouTube permanently stores cookies on your device via your browser. If you do not agree to this processing, you have the option of preventing the installation of cookies by making the appropriate settings in your browser. Further details can be found in the section about cookies above.</p>
-<p>Further information about the collection and use of data as well as your rights and protection options in Google's privacy policy found at</p>
-<p><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">https://policies.google.com/privacy</a></p>
-
-<h1> Server Privacy Policy </h3>
-<h2> Registration</h2>
-<p>In order to use the server, a user must first complete the registration form on paradise-team.com . During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required. The Data will be safetly stored.</p>
+twitter
+<Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA
+Privacy Policy: https://twitter.com/privacy
 
 
-  </body>
-</html>
+Twitter plug-in
+Our website uses the plug-in of the Twitter social network. The Twitter service is operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA ("Twitter").
+Through certification according to the EU-US Privacy Shield
+https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&amp
+Twitter guarantees that it will follow the EU's data protection regulations when processing data in the United States.
+The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in improving the quality of our website.
+If the plug-in is stored on one of the pages you visit on our website, your browser will download an icon for the plug-in from Twitter's servers in the USA. For technical reasons, it is necessary for Twitter to process your IP address. In addition, the date and time of your visit to our website will also be recorded.
+If you are logged in to Twitter while visiting one of our plugged-in websites, the information collected by the plug-in from your specific visit will be recognized by Twitter. The information collected may then be assigned to your personal account at Twitter. If, for example, you use the Twitter Tweet button, this information will be stored in your Twitter account and may be published on the Twitter platform. To prevent this, you must either log out of Twitter before visiting our site or make the appropriate settings in your Twitter account.
+Further information about the collection and use of data as well as your rights and protection options in Twitter's privacy policy found at
+https://twitter.com/privacy
+
+Google reCAPTCHA
+Our website uses Google reCAPTCHA to check and prevent automated servers ("bots") from accessing and interacting with our website. This is a service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (hereinafter: Google).
+Through certification according to the EU-US Privacy Shield
+https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp
+Google guarantees that it will follow the EU's data protection regulations when processing data in the United States.
+This service allows Google to determine from which website your request has been sent and from which IP address the reCAPTCHA input box has been used. In addition to your IP address, Google may collect other information necessary to provide and guarantee this service.&nbsp;&nbsp;&nbsp
+The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in the security of our website and in the prevention of unwanted, automated access in the form of spam or similar.
+Google offers detailed information at
+https://policies.google.com/privacy
+concerning the general handling of your user data.
+
+YouTube
+We use YouTube on our website. This is a video portal operated by YouTube LLC, 901 Cherry Ave, 94066 San Bruno, CA, USA, hereinafter referred to as "YouTube".
+YouTube is a subsidiary of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, hereinafter referred to as "Google".
+Through certification according to the EU-US Privacy Shield
+https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp
+Google and its subsidiary YouTube guarantee that they will follow the EU's data protection regulations when processing data in the United States.
+We use YouTube in its advanced privacy mode to show you videos. The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in improving the quality of our website. According to YouTube, the advanced privacy mode means that the data specified below will only be transmitted to the YouTube server if you actually start a video.
+Without this mode, a connection to the YouTube server in the USA will be established as soon as you access any of our webpages on which a YouTube video is embedded.
+This connection is required in order to be able to display the respective video on our website within your browser. YouTube will record and process at a minimum your IP address, the date and time the video was displayed, as well as the website you visited. In addition, a connection to the DoubleClick advertising network of Google is established.
+If you are logged in to YouTube when you access our site, YouTube will assign the connection information to your YouTube account. To prevent this, you must either log out of YouTube before visiting our site or make the appropriate settings in your YouTube account.
+For the purpose of functionality and analysis of usage behavior, YouTube permanently stores cookies on your device via your browser. If you do not agree to this processing, you have the option of preventing the installation of cookies by making the appropriate settings in your browser. Further details can be found in the section about cookies above.
+Further information about the collection and use of data as well as your rights and protection options in Google's privacy policy found at
+https://policies.google.com/privacy
+
+Server Privacy Policy 
+ Registration
+In order to use the server, a user must first complete the registration form on paradise-team.com . During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required. The Data will be safetly stored.
+
+
