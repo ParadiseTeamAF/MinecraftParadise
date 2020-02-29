@@ -80,7 +80,7 @@
 
 ## §8 General Rules
 * (1)	Every Player needs a Home. Above or Underground doesn’t matter. This means you can't build the machines. 
-* (2)	The size is maximum of 4 Chunks (2x2).
+* (2)	The size is maximum of 16 Chunks 9 Max loaded.
 * (3)	Enough distance to your neighbour. Team workers are not affected.
   ** a.	At least 2 Chunks between
 * (4)	Community construction projects are allowed and desired. In the case of buildings, the same rules count as in Section 5
