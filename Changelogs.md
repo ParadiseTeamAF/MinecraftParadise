@@ -1,6 +1,175 @@
 # Changelogs
 
 +--------------------------------/Release----------------------------------+
+## Version 3.0.2
+```
+[Fixed] Cant smelt Amber to Metall
+[Fixed] First Quest cant be completed
+[Changed] Configs for Sky Ochards and Bonsai Trees
+
+Latest Server Version
+
+```
+## Version 3.1
+```
+IF YOU DONT CONVERTET FROM BETTER QUESTING TO FTB QUESTS DO IT IN 3.0.2 BEFORE UPDATING IT
+
+__Updated Mods:__
+Advanced Rocketry
+Farseek
+Forestry
+FTB Libary
+Journey Map
+Quark
+Storage Drawers
+Tesla Core Lib
+
+__Removed Mods:__
+FTB Quest Importer
+Better Questing
+Better Questing Quest Book
+Better Questing RF Expansion
+Better Questing Standard Expansion
+
+__Other:__
+Adjust Bonsai config
+Adding Recipes for Sky Ochards Amber
+
+Second Version of the Server Pack
+```
+
+## Version 3.0.2
+```
+Adjust Custom Main Menu
+
+```
+## Version 3.0.1
+```
+__Added Mods:__
+Added Unloader
+Added Phosphor
+Added RandomPatches
+Added FastFurnace
+Added FTB Money
+
+Convert Better Questing Quests to FTB Quests
+Reworked the Questlines
+
+Added more Rewards
+ 
+To convert the progress of BQ to FTBQUESTS use following command
+/ftbq_import progress 
+
+First Server Pack Included
+
+```
+## Version 2.6.1
+```
+__Updated Mods:__
+advanced chimneys
+advanced Rockerty
+Astral Sorcery
+Better Questing
+Constructs Armory
+LibVulpes
+Minecolonies
+ModTweaker
+Pollution of the Realms
+Tesla Core lib
+Tinkers Construct
+
+Got disbarred because of a mistake I made: Should be out since November:
+Halloween Mod
+
+
+```
+## Version 2.6.0.1
+```
+__Updated Mods:__
+better questing
+bonsai trees 2
+botania
+brandons core
+controlling
+coreutil
+custom main menu
+draconic ev
+dynamic trees
+ender io
+forge endertech
+journey map
+minecolonies
+pollution of the realms
+RFTools
+Streams
+Tinkers Complement
+Waystone
+advanced Chimneys
+Advanced Rockerty
+
+__Removed Mods:__
+Joshuas christmas mod
+Decorable christmas trees mod
+
+
+```
+## Version 2.6
+```
+__Added Mods:__
+Joshuas christmas mod
+Decorable christmas trees mod
+
+__Updated Mods:__
+actually additions
+advanced chimneys
+advanced rocketry
+better questing
+Better Questing standard expansion
+better shears
+bookshelf
+Connectedtexturesmdo
+Coroutil
+craft tweaker
+Farseek
+foamfix
+Forge endertech
+FTB Libary
+FTB Utilities
+Geolosys
+Hunting Dimension
+Imemrsive Railroading
+Journey Map
+LibVulpes
+MineColonies
+MineTogether
+OpenComputers
+Pollution of the Realms
+
+```
+
+## Version 2.5
+```
+__Updated Mods__:
+Actually Additions
+Advanced Rocketry
+Blood Magic
+Constructs Armory
+Dynamic Trees
+Ender Core
+Forestry
+FTB Libary
+FTB Utilities
+Geolosys
+Immersive Railroading
+Pollution of the Realms
+Track IP
+
+__Removed Mods__:
+The No-Holds Barred Halloween Mod
+
+Adjust mainmenu. Now it doens't have this scary Background House
+
+```
 
 ## Version 2.4.1.4
 ```
