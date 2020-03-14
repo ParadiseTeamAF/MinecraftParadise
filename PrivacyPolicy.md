@@ -28,7 +28,9 @@ The data will be deleted within no more than seven days, unless continued storag
 Contact If you contact us via email or the contact form, the data you provide will be used for the purpose of processing your request. We must have this data in order to process and answer your inquiry; otherwise we will not be able to answer it in full or at all.
 The legal basis for this data processing is Art. 6 Para. 1 lit. b) GDPR.
 Your data will be deleted once we have fully answered your inquiry and there is no further legal obligation to store your data, such as if an order or contract resulted therefrom.
-Contests We offer you the opportunity to take part in contests on our website. If you participate in one of our competitions, the data you provide when you enter will be processed without your further consent, but only to run the contest.
+
+## Contests
+We offer you the opportunity to take part in contests on our website or Twitter. If you participate in one of our competitions, the data you provide when you enter will be processed without your further consent, but only to run the contest.
 As part of the competition, we will pass on your data to the transport company entrusted with the delivery of the goods or to a financial service provider if the transfer is necessary for the delivery or payment of your winnings. If you win and your information is to be published, you will be informed of this in the declaration of consent.
 The legal basis for the transfer of this data is Art. 6 Para. 1 lit. b) GDPR.
 Your consent to the processing of your data for participation in our competitions may be exercised in accordance with Art. 7 Para. 3 GDPR with future effect. All you have to do is inform us that you are revoking your consent.
