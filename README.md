@@ -58,7 +58,7 @@ Method 2
 
 ### Version
 
-The latest Version is now the 2.6.1 on Twitch.
+The latest Version is now the 3.2 on Twitch.
 * Note: For the best main menu don't forget to set the GUI Scale to large.
 
 ## Authors
