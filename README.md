@@ -90,4 +90,4 @@ We usually need one to two working days to check.
 * **Twitter** -   (https://twitter.com/ParadiseTeam2)
 * **Mail** -      (ParadiseTeamAF@outlook.de)
 * **Instagram**  (@paradiseteam3)
-* **Discord**   (https://discord.gg/hPXynT)
+* **Discord**   (https://discord.gg/cfs3qXC)
